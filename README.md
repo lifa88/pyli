@@ -1,4 +1,5 @@
 # pyli
 pythoner of big data in china
 
->use vscode to edit python, very funny, isn't it?
+> use vscode to edit python, very funny, isn't it?
+> 好东西。
