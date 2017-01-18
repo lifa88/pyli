@@ -6,3 +6,5 @@ pythoner of big data in china
 
 # 新开始，新征程
 ## ubuntu xface + vs code + git + python + ai + ml
+
+- again, ones more.
